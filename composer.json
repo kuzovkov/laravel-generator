@@ -27,7 +27,7 @@
         "illuminate/support": "^11.0",
         "illuminate/console": "^11.0",
         "laracasts/flash": "^3.2.2",
-        "laravelcollective/html": "*",
+        "kuzovkov/html": "*",
         "symfony/var-exporter": "^6.2.5"
     },
     "require-dev": {
